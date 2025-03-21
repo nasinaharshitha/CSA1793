@@ -1,0 +1,4 @@
+dict("books,cupborad,table,money,wallet")
+print("contents of dictinory:",dict. values())
+print(dict)
+print("search a item in dictinory:",dict(wallet))
